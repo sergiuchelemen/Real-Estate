@@ -1,5 +1,21 @@
 {
+  "name": "real-estate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
   "dependencies": {
-    "scrollreveal": "^4.0.9"
-  }
+    "express": "^4.18.2",
+    "is-dom-node": "^1.0.4",
+    "is-dom-node-list": "^1.2.1",
+    "miniraf": "^1.0.0",
+    "rematrix": "^0.3.0",
+    "scrollreveal": "^4.0.9",
+    "tealight": "^0.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sergiu Chelemen",
+  "license": "ISC"
 }
