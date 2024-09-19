@@ -1,6 +1,6 @@
 # Real-Estate-presentation-website
 
-Demo: https://fine-lime-antelope-cape.cyclic.cloud/
+Demo: (https://sergiuchelemen.github.io/real-estate-presentation-website/)
 
 •	Presentation website for a Real Estate business made with HTML, CSS and JavaScript. It provides a dynamic and interactive user interface.
 
